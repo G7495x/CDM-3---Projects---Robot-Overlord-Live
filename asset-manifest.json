@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1cc4f931.chunk.css",
+    "main.js": "/static/js/main.b66839ae.chunk.js",
+    "main.js.map": "/static/js/main.b66839ae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f8fcbcf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f8fcbcf.js.map",
+    "static/js/2.c1f86458.chunk.js": "/static/js/2.c1f86458.chunk.js",
+    "static/js/2.c1f86458.chunk.js.map": "/static/js/2.c1f86458.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e92f1c505dcdb9d9338a93821bebaf56.js": "/precache-manifest.e92f1c505dcdb9d9338a93821bebaf56.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1cc4f931.chunk.css.map": "/static/css/main.1cc4f931.chunk.css.map",
+    "static/js/2.c1f86458.chunk.js.LICENSE.txt": "/static/js/2.c1f86458.chunk.js.LICENSE.txt",
+    "static/media/1_Anchor.obj": "/static/media/1_Anchor.05a3563c.obj",
+    "static/media/2_Shoulder.obj": "/static/media/2_Shoulder.67fa005d.obj",
+    "static/media/3_Bicep.obj": "/static/media/3_Bicep.6eb28d2f.obj",
+    "static/media/4_Forearm.obj": "/static/media/4_Forearm.bab2fed0.obj",
+    "static/media/5_TuningFork.obj": "/static/media/5_TuningFork.69d3d423.obj",
+    "static/media/6_PicassoBox.obj": "/static/media/6_PicassoBox.78e539c9.obj",
+    "static/media/7_Hand.obj": "/static/media/7_Hand.bfb064cf.obj",
+    "static/media/8_ClampBase.obj": "/static/media/8_ClampBase.d515e25f.obj",
+    "static/media/9_Clamp_Left_Fixed.obj": "/static/media/9_Clamp_Left_Fixed.45fe70fc.obj",
+    "static/media/9_Clamp_Right_Fixed.obj": "/static/media/9_Clamp_Right_Fixed.1e1f6339.obj",
+    "static/media/index.scss": "/static/media/ubuntu-v14-latin-regular.5b23eeb3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f8fcbcf.js",
+    "static/js/2.c1f86458.chunk.js",
+    "static/css/main.1cc4f931.chunk.css",
+    "static/js/main.b66839ae.chunk.js"
+  ]
+}
