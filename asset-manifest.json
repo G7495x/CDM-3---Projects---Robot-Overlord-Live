@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.a7d73ff5.chunk.css",
-    "main.js": "./static/js/main.501054ad.chunk.js",
-    "main.js.map": "./static/js/main.501054ad.chunk.js.map",
+    "main.css": "./static/css/main.20f2ade4.chunk.css",
+    "main.js": "./static/js/main.3a6247b1.chunk.js",
+    "main.js.map": "./static/js/main.3a6247b1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7a44fb51.js",
     "runtime-main.js.map": "./static/js/runtime-main.7a44fb51.js.map",
-    "static/js/2.a9187510.chunk.js": "./static/js/2.a9187510.chunk.js",
-    "static/js/2.a9187510.chunk.js.map": "./static/js/2.a9187510.chunk.js.map",
+    "static/js/2.bbdbe2ea.chunk.js": "./static/js/2.bbdbe2ea.chunk.js",
+    "static/js/2.bbdbe2ea.chunk.js.map": "./static/js/2.bbdbe2ea.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.e18431983d8e7d10bedb6af72d82c3f5.js": "./precache-manifest.e18431983d8e7d10bedb6af72d82c3f5.js",
+    "precache-manifest.a59d9e7dcb761ed3751c0ed4a5eaa7a8.js": "./precache-manifest.a59d9e7dcb761ed3751c0ed4a5eaa7a8.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.a7d73ff5.chunk.css.map": "./static/css/main.a7d73ff5.chunk.css.map",
-    "static/js/2.a9187510.chunk.js.LICENSE.txt": "./static/js/2.a9187510.chunk.js.LICENSE.txt",
+    "static/css/main.20f2ade4.chunk.css.map": "./static/css/main.20f2ade4.chunk.css.map",
+    "static/js/2.bbdbe2ea.chunk.js.LICENSE.txt": "./static/js/2.bbdbe2ea.chunk.js.LICENSE.txt",
     "static/media/1_Anchor.obj": "./static/media/1_Anchor.05a3563c.obj",
     "static/media/2_Shoulder.obj": "./static/media/2_Shoulder.67fa005d.obj",
     "static/media/3_Bicep.obj": "./static/media/3_Bicep.6eb28d2f.obj",
@@ -23,14 +23,14 @@
     "static/media/9_Clamp_Left_Fixed.obj": "./static/media/9_Clamp_Left_Fixed.45fe70fc.obj",
     "static/media/9_Clamp_Right_Fixed.obj": "./static/media/9_Clamp_Right_Fixed.1e1f6339.obj",
     "static/media/index.scss": "./static/media/ubuntu-v14-latin-regular.5b23eeb3.woff2",
-    "static/media/RightSidebar.scss": "./static/media/controls.0384b335.png",
+    "static/media/RightSidebar.scss": "./static/media/controls.3f96bf4a.png",
     "static/media/d2drhlh-0c1dc8e8-310b-4f13-b1ed-596c78153401-gray.jpg": "./static/media/d2drhlh-0c1dc8e8-310b-4f13-b1ed-596c78153401-gray.dc7a7340.jpg",
     "static/media/icon_logo.svg": "./static/media/icon_logo.e152c216.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7a44fb51.js",
-    "static/js/2.a9187510.chunk.js",
-    "static/css/main.a7d73ff5.chunk.css",
-    "static/js/main.501054ad.chunk.js"
+    "static/js/2.bbdbe2ea.chunk.js",
+    "static/css/main.20f2ade4.chunk.css",
+    "static/js/main.3a6247b1.chunk.js"
   ]
 }
